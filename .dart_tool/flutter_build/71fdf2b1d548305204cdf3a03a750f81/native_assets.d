@@ -1,0 +1,1 @@
+ C:\\Users\\gaudh\\E-commerce_clean_architecture\\.dart_tool\\flutter_build\\71fdf2b1d548305204cdf3a03a750f81\\native_assets.yaml: 
